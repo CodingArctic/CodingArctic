@@ -1,4 +1,4 @@
-hi! i'm arctic. i don't use github very much, but i'm an aspiring programmer :)
+hi! i'm arctic. i'm an aspiring programmer, trying to build up some projects while also being very busy at school lol
 
 ### stats:
 
